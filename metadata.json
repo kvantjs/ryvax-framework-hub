@@ -1,0 +1,6 @@
+{
+  "name": "Ryvax.js",
+  "description": "The official website for the Ryvax Foundation and Ryvax.js, the ultra-fast, zero-overhead full-stack JavaScript framework.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
